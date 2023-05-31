@@ -191,4 +191,8 @@ p{
     min-width: 150px;
     margin-bottom: 5px;
   }
+  .about.skills .box{
+    display: flex;
+    flex-direction: column;
+  }
 }
