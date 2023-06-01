@@ -44,7 +44,7 @@ justify-content: center;
   overflow: hidden;
 }
 .imgbox img{
-  width: 100%;
+  width: 80%;
   height: 100%;
   position: absolute;
   top: 0;
