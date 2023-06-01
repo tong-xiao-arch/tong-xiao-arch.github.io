@@ -44,11 +44,11 @@ justify-content: center;
   overflow: hidden;
 }
 .imgbox img{
-  width: 80%;
+  width: 70%;
   height: 100%;
   position: absolute;
   top: 0;
-  left: 0;
+  left: 20%;
   border-radius: 50%;
 }
 .profiletext h2{
