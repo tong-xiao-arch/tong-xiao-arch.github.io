@@ -46,10 +46,10 @@ justify-content: center;
 }
 .imgbox img{
   width: 100%;
-  height: 110%;
+  height: 120%;
   position: absolute;
   top: -5%;
-  left: 20%;
+  left: 0%;
 
 }
 .profiletext h2{
